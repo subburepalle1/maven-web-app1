@@ -1,3 +1,3 @@
-FROM tomcat:10.1.13-jre11
+FROM tomcat:8.0.20-jre8
 
-COPY target/01-maven-web-app*.war /usr/local/apache-tomcat-10.1.13/webapps/java-web-app.war
+COPY target/01-maven-web-app*.war /usr/local/tomcat/webapps/java-web-app.war
