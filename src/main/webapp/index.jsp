@@ -6,7 +6,7 @@
   
   <h2> Call Us : + 91 - 0567894042</h2>
   
-  <h3> Ofc Location : online, bengaluru </h3>
+  <h3> Ofc Location : online, Repalle </h3>
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
